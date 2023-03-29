@@ -1,0 +1,9 @@
+.background{
+    margin: 0;
+    background-color: rgb(183, 119, 119);
+    color:white;
+    text-align: justify;
+}
+.focus{
+    list-style-type: none;
+}

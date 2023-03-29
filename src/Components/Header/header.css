@@ -1,0 +1,19 @@
+
+   .banner{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../../../public/images/What-is-Web-Developer.jpg");
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.text{
+    /* align-items:start; */
+    /* text-align: left; */
+    /* align-items: left; */
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%,-50%);
+    color:white;
+}
